@@ -1,0 +1,17 @@
+names:
+- GRAFFITI
+- FADED SIGNAGE
+- POTHOLES
+- GARBAGE
+- CONSTRUCTION ROAD
+- BROKEN_SIGNAGE
+- BAD STREETLIGHT
+- BAD BILLBOARD
+- SAND ON ROAD
+- CLUTTER_SIDEWALK
+- UNKEPT_FACADE
+nc: 11
+
+test: data/test/images
+train: data/train/images
+val: data/valid/images

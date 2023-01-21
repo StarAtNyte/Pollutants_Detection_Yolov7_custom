@@ -3,8 +3,7 @@ YoloV7 Visible Pollutants Detection
 
 Custom Yolov7 model trained on 10000 road images for detection of visible pollutants.
 
-Here is the link to the dataset used:
-..
+
 
 Here is the link to prediction in test images:
 
